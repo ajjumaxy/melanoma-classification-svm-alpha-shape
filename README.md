@@ -1,2 +1,3 @@
-# Melanoma_Classification_SVM_AlphaShape
-classificação de melanoma por aproximação de borda utilizando AlphaShape 
+# melanoma-classification-svm-alpha-shape
+
+Sistema para classificação de melanoma por aproximação de borda utilizando AlphaShape 
